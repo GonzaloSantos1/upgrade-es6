@@ -1,8 +1,8 @@
 // 3.1 Dado el siguiente array, crea una copia usando spread operators.
 const pointsList1 = [32, 54, 21, 64, 75, 43];
 
-let pointListCopy = [...pointsList1];
-console.log(pointListCopy);
+let pointsListCopy = [...pointsList1];
+console.log(pointsListCopy);
 
 // 3.2 Dado el siguiente objeto, crea una copia usando spread operators.
 const toy1 = {name: 'Bus laiyiar', date: '20-30-1995', color: 'multicolor'};
